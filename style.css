@@ -30,6 +30,10 @@ h2 {
   letter-spacing: 0.5px;
 }
 
+body{
+  padding-bottom: 50px;
+}
+
 body, input, textarea {
   font-weight: 200;
   font-family: "Source Sans Pro", sans-serif;
